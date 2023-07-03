@@ -24,7 +24,7 @@ body {
   background-color: #4D6947;
   border: 2px solid #4D6947;
   border-radius: 50px;
-  font-size: 32px;
+  font-size: 28px;
   color: #F8F8F8;
   text-transform: uppercase;
   outline: none;
@@ -40,7 +40,7 @@ body {
 
 .text {
   display: none;
-  font-size: 42px;
+  font-size: 28px;
   color: #4D6947;
 }
 
